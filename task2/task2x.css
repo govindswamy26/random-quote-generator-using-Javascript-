@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+    height: 100vh;
+}
+
+.heading {
+    color: white;
+}
+
+.box {
+    background-color: white;
+    text-align: center;
+    height: 300px;
+    width: 70vw;
+    padding: 30px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.box-1 {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.para {
+    color: orange;
+    font-size: 23px;
+}
+
+.para-1 {
+    align-self: flex-end;
+    color: orange;
+    font-size: 23px;
+}
+
+.button-1 {
+
+    background-color: orange;
+    color: white;
+}
